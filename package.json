@@ -1,0 +1,22 @@
+{
+  "name": "wheather-cli",
+  "version": "1.0.0",
+  "description": "cli app created with nodejs to get weather information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qw-0p/wheather-cli.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Aleksandr Sarkisov <sarkisov.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qw-0p/wheather-cli/issues"
+  },
+  "homepage": "https://github.com/qw-0p/wheather-cli#readme"
+}
